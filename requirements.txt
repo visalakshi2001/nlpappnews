@@ -18,4 +18,4 @@ beautifulsoup4==4.10.0
 Pillow==9.0.0
 pyLDAvis==3.3.1
 scikit_learn==1.0.2
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
+-e https://github.com/explosion/spacy-models/releases/download/en_vectors_web_lg-2.1.0/en_vectors_web_lg-2.1.0.tar.gz
