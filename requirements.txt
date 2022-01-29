@@ -19,4 +19,4 @@ Pillow==9.0.0
 pyLDAvis==3.3.1
 scikit_learn==1.0.2
 pyresparser==1.0.6
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.3.1.tar.gz#egg=en_core_web_sm
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz#egg=en_core_web_sm
